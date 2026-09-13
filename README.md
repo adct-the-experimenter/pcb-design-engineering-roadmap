@@ -1,6 +1,7 @@
 # Printed Circuit Board Design Engineering Roadmap
 
 This is a roadmap and resources document that is intended to help electrical engineering students and electronics enthusiasts self-study and learn printed circuit board design.
+Some basic circuits knowledge is expected.
 
 This roadmap was inspired by the great Embedded Engineer Rroadmap by user m3y54m.
 
