@@ -28,10 +28,10 @@ To Do: Add links to resources on specific projects.
 - [Phil's Lab - great examples and projects](https://www.youtube.com/@PhilsLab/videos)
 - [Robert Feranec - good deep dive into topics](https://www.youtube.com/@RobertFeranec/videos)
 
+## Tools
+- [KiCad - A Cross Platform and Open Source PCB Design Suite](https://www.kicad.org/)
+- [Saturn PCB Tools - Calculate impedance, Cross-talk, etc.](https://saturnpcb.com/saturn-pcb-toolkit/)
 
-## Other Helpful Resources
-- [PCB Design Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
-- [Embedded Engineering Roadmap](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
 
 ## Books
 - Signal and Power Integrity Simplified by Eric Bogatin 
@@ -41,7 +41,10 @@ To Do: Add links to resources on specific projects.
 ## Paid Training 
 I am not sponsored by these companies. I can recommend this training from experience.
 
-- Printed Circuit Engineering Association  
+- Printed Circuit Engineering Association 
 - Fedevel classes
 
-
+## Other Helpful Resources
+- [PCB Design Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
+- [Embedded Engineering Roadmap](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
+- [Eric Bogatin's podcast on signal integrity](https://podcasts.signalintegrityjournal.com/)
