@@ -3,9 +3,9 @@
 This is a roadmap and resources document that is intended to help electrical engineering students and electronics enthusiasts self-study and learn printed circuit board design.
 Some basic circuits knowledge is expected.
 
-This roadmap was inspired by the great Embedded Engineer Rroadmap by user m3y54m.
+This roadmap was inspired by the great Embedded Engineer Roadmap by user m3y54m.
 
-The first step that I recommend is to learn the model of how electromagnetic energy moves through the fields in the dielectric of the printed circuit board.
+The **first step** that I recommend is to **learn the model of how electromagnetic energy moves through the fields in the dielectric of the printed circuit board.**
 This video by Rick Hartley on proper grounding is a good start. [Rick Hartley's lecture on proper grounding](https://www.youtube.com/live/ySuUZEjARPY)
 
 
