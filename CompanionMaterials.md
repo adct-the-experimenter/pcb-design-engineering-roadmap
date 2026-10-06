@@ -4,7 +4,9 @@ This is a list of recommended videos to watch and articles to read as you follow
 
 ## Fundamentals
 
-[EEVBlog explanation on Bypass / Decoupling Capacitors](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
+[Electromagnetic Field Energy Model and Transmisssion Line - Rick Hartley's explanation of proper grounding ](https://www.youtube.com/live/ySuUZEjARPY)
+[Bypass / Decoupling Capacitors - EEVBlog explanation on Bypass / Decoupling Capacitors](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
+
 
 ## Digital
 
