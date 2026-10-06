@@ -13,8 +13,8 @@ This video by Rick Hartley on proper grounding is a good start. [Rick Hartley's 
 ![PCB Design Engineering Roadmap](https://github.com/adct-the-experimenter/pcb-design-engineering-roadmap/releases/download/latest/pcb-design-roadmap.png)
 
 ## Learning Plans
-- [A plan and guide made by Clay Clemmer on learning PCB design](https://www.clayclemmer.com/pcb-design-pathway )
-
+- [A good plan and guide made by Clay Clemmer on learning PCB design](https://www.clayclemmer.com/pcb-design-pathway )
+- CompanionMaterials.md - A file containing recommended videos and articles for following the road map.
 
 ## Projects
 To Do: Add links to resources on specific projects.
