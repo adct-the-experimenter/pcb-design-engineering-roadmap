@@ -27,6 +27,7 @@ To Do: Add links to resources on specific projects.
 - [Altium Academy - good teaching on concepts](https://www.youtube.com/@AltiumAcademy/videos)
 - [Phil's Lab - great examples and projects](https://www.youtube.com/@PhilsLab/videos)
 - [Robert Feranec - good deep dive into topics](https://www.youtube.com/@RobertFeranec/videos)
+- [Printed Circuit Engineering Association](https://www.youtube.com/@pcea-official)
 
 ## Tools
 - [KiCad - A Cross Platform and Open Source PCB Design Suite](https://www.kicad.org/)
