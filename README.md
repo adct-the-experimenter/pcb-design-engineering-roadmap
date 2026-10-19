@@ -34,6 +34,14 @@ To Do: Add links to resources on specific projects.
 - [Saturn PCB Toolkit - Calculate impedance, Cross-talk, etc.](https://saturnpcb.com/saturn-pcb-toolkit/)
 - [Sierra Circuits Online PCB Design Tools - Calculate trace and via impedance, trace width, PDN, etc. ](https://www.protoexpress.com/tools/)
 
+## Checklists
+- https://github.com/jnoss/pcb-checklist
+- https://github.com/cillian64/electronics_checklist
+- https://pcbchecklist.com/
+- https://aqdi.com/wordpress/PCBChecklistLive.htm
+- https://www.candorind.com/pcb-design-checklist/
+- https://github.com/azonenberg/pcb-checklist/blob/master/layout-checklist.md
+
 ## Books
 - Signal and Power Integrity Simplified by Eric Bogatin 
 - Printed Circuits Handbook by Coombs and Holden
