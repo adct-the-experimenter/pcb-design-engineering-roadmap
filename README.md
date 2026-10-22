@@ -37,7 +37,6 @@ To Do: Add links to resources on specific projects.
 ## Checklists
 - https://github.com/jnoss/pcb-checklist
 - https://github.com/cillian64/electronics_checklist
-- https://pcbchecklist.com/
 - https://aqdi.com/wordpress/PCBChecklistLive.htm
 - https://www.candorind.com/pcb-design-checklist/
 - https://github.com/azonenberg/pcb-checklist/blob/master/layout-checklist.md
