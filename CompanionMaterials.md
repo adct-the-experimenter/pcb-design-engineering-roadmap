@@ -10,7 +10,7 @@ This is a list of recommended videos to watch and articles to read as you follow
 
 [Transmission Line - Microstrip vs Stripline, including Controlled Impedance Calculation!](https://www.protoexpress.com/blog/difference-between-microstrip-stripline-pcb/)
 
-[Current Return Path Explanation by Altium](https://resources.altium.com/p/what-return-current-path-pcb)
+[Current Return Path - Explanation on Current Return Path by Altium](https://resources.altium.com/p/what-return-current-path-pcb)
 
 [Bypass / Decoupling Capacitors - EEVBlog explanation on Bypass / Decoupling Capacitors](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
 
