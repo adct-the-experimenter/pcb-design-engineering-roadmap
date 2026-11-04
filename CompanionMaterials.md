@@ -19,6 +19,14 @@ This is a list of recommended videos to watch and articles to read as you follow
 
 ## Digital
 
+[DDR SDRAM - DDR3 Design Requirements for Keystone Devices](https://www.ti.com/lit/an/sprabi1d/sprabi1d.pdf?ts=1784073054555)
+
+[DDR SDRAM - DDR3 Hardware and Layout Design Considerations for DDR3 SDRAM Memory Interfaces](https://hands.com/~lkcl/eoma/rockchip_rk3288/AN3940.pdf)
+
+[DDR SDRAM - DDR3 Example of connecting Zynq FPGA to DDR3 SDRAM memory](https://docs.amd.com/v/u/en-US/ug933-Zynq-7000-PCB)
+
+[DDR SDRAM - Micron DDR3L memory datasheet for reference](https://www.mouser.de/datasheet/2/671/4Gb_DDR3L-1283964.pdf)
+
 ## Analog
 
 ## Radio Frequency
