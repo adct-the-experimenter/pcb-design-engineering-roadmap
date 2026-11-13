@@ -16,7 +16,7 @@ This is a list of recommended videos to watch and articles to read as you follow
 
 [Bypass / Decoupling Capacitors - EEVBlog explanation on Bypass / Decoupling Capacitors](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
 
-[Bypass / Decoupling Capacitors - Eric Bogatin example for deterimining decoupling capacitor value](https://www.youtube.com/watch?v=ARwBwHZESOY)
+[Bypass / Decoupling Capacitors - Eric Bogatin example for deterimining decoupling capacitor value, equation at 37 minute mark](https://www.youtube.com/watch?v=ARwBwHZESOY)
 
 ## Digital
 
