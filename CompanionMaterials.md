@@ -12,10 +12,11 @@ This is a list of recommended videos to watch and articles to read as you follow
 
 [Current Return Path - Explanation on Current Return Path by Altium](https://resources.altium.com/p/what-return-current-path-pcb)
 
-[Current Return Path - Deep Dive on Current Rethrn Path by Eric Bogatin and Robert Feranec](https://www.youtube.com/watch?v=icRzEZF3eZo)
+[Current Return Path - Deep Dive on Current Return Path by Eric Bogatin and Robert Feranec](https://www.youtube.com/watch?v=icRzEZF3eZo)
 
 [Bypass / Decoupling Capacitors - EEVBlog explanation on Bypass / Decoupling Capacitors](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
 
+[Bypass / Decoupling Capacitors - Eric Bogatin example for deterimining decoupling capacitor value](https://www.youtube.com/watch?v=ARwBwHZESOY)
 
 ## Digital
 
