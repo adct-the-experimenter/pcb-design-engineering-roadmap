@@ -17,8 +17,10 @@ This video by Rick Hartley on proper grounding is a good start. [Rick Hartley's 
 - CompanionMaterials.md - A file containing recommended videos and articles for following the road map.
 
 ## Projects
-To Do: Add links to resources on specific projects.
-- A pcb with microcontroller on it
+
+These projects are in order from least difficult to most difficult, with least dificult project being first. 
+
+- A pcb with a microcontroller on it. [STM32 Microcontroller Video Example by Phil Salmony](https://www.youtube.com/watch?v=aVUqaB0IMh4)
 - A pcb with USB 2.0 high-speed phy interface.
 - A pcb with an FPGA on it
 
