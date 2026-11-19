@@ -18,6 +18,12 @@ This is a list of recommended videos to watch and articles to read as you follow
 
 [Bypass / Decoupling Capacitors - Eric Bogatin example for deterimining decoupling capacitor value, equation at 37 minute mark](https://www.youtube.com/watch?v=ARwBwHZESOY)
 
+[Balance Copper - Rick Hartley, why it is important to balance copper](https://www.youtube.com/shorts/fO1EOt-)
+
+[Balance Copper - How to balance copper on a PCB Sierra Circuits](https://www.protoexpress.com/blog/balanced-copper-distribution-and-copper-weight-in-pcbs/)
+
+[Balance Copper - Example of how to balance copper by Atlas PCB](https://www.atlaspcb.com/blog/pcb-copper-balancing-techniques/)
+
 ## Digital
 
 [DDR SDRAM - DDR3 Design Requirements for Keystone Devices](https://www.ti.com/lit/an/sprabi1d/sprabi1d.pdf?ts=1784073054555)
