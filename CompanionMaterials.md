@@ -20,9 +20,12 @@ This is a list of recommended videos to watch and articles to read as you follow
 
 [Balance Copper - Rick Hartley, why it is important to balance copper](https://www.youtube.com/shorts/fO1EOt-)
 
+[Balance Copper - Altium Academy, benefits of copper thieving](https://www.youtube.com/watch?v=WBZckq5t1uk)
+
 [Balance Copper - How to balance copper on a PCB Sierra Circuits](https://www.protoexpress.com/blog/balanced-copper-distribution-and-copper-weight-in-pcbs/)
 
 [Balance Copper - Example of how to balance copper by Atlas PCB](https://www.atlaspcb.com/blog/pcb-copper-balancing-techniques/)
+
 
 ## Digital
 
