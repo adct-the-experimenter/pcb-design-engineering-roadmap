@@ -59,3 +59,5 @@ I am not sponsored by these companies. I can recommend this training from experi
 - [PCB Design Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
 - [Embedded Engineering Roadmap](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
 - [Eric Bogatin's podcast on signal integrity](https://podcasts.signalintegrityjournal.com/)
+- [Organic Chemistry Tutor - basic electronics lessons and problems.](https://www.youtube.com/watch?v=uXr4lXYjXuU&list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL)
+- [Engineering Mindset - nice visual explanations for how components work.](https://www.youtube.com/@EngineeringMindset) 
